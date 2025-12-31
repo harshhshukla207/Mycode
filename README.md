@@ -1,2 +1,1 @@
-# Mycode
-30 days code TCP 2025-2026
+# 30-days-of-code-tcp-2026
